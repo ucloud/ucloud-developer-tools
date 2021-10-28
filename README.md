@@ -9,7 +9,7 @@ UCloud is a cloud vendor in China. We provide many developer tools to help users
 - [Landscape](#Landscape)
 - [Introduction](#Introdution)
 - Concept
-  - [Imperative vs Declarative vs Interactive](./concept/architectureal-style.md)
+  - [Imperative vs Declarative vs Interactive](./concept/architectural-styles.md)
   - [Code Generation Pipeline](./concept/code-generation-pipeline.md)
 - Culture
   - [Open Source and Gift Culture](./culture/open-source.md)
