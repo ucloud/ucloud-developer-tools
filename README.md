@@ -25,7 +25,7 @@ UCloud has developed and contributed to many open-source tools.
 
 ## Introdution
 
-| Categories | Name             | Hosted by | Style       | Homepage (Chinese)                                     | Repository                                                   | State                                                     |
+| Categories | Name             | Hosted by | Style       | Document                                               | Repository                                                   | State                                                     |
 | ---------- | ---------------- | --------- | ----------- | ------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- |
 | Landing    | Developer Center | Self      | Interactive | ~                                                      | ~                                                            | [Prototyping](./culture/rtm-for-community.md#Prototyping) |
 | SaaS       | UAPI             | Self      | Interactive | [Doc](https://docs.ucloud.cn/uapi/README)              | ~                                                            | [Active](./culture/rtm-for-community.md#Active)           |
