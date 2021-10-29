@@ -13,10 +13,10 @@ UCloud is a cloud vendor in China. We provide many developer tools to help users
   - [Code Generation Pipeline](./concept/code-generation-pipeline.md)
 - Culture
   - [Open Source and Gift Culture](./culture/open-source.md)
-  - [SLA for Community](./culture/sla-for-community.md)
+  - [Response Time Maximum for Community](./culture/rtm-for-community.md)
 - [Contribution Guideline](#Contribution)
-- [Proposals](./proposals)
 - [Design Documentations](./design)
+- [Proposals](./proposals)
 - Roadmap
 
 ## Landscape
@@ -47,6 +47,6 @@ UCloud has developed and contributed to many open-source tools.
 
 UCloud developer tools is an collection of open source tools. We will publish my design and roadmap into this repository.
 
-If you have any proposal for our tools, create an issue for free. We will convert the major inspire as an proposal draft, and push it forward.
+If you have any proposal for our tools, create an **issue** for free. We will convert the major inspire as an **proposal** draft, and push it forward.
 
-When any proposal done, it will be convert as a design documentation. You can see all the documentation at here.
+When any **proposal** done, it will be convert as a **design documentation**. You can see all the documentation at here.

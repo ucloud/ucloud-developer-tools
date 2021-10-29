@@ -2,9 +2,15 @@
 
 UCloud uses **code generation** technology on a large scale of developer tools development.
 
-According to Martin Fowler's definition in *[Domain-Specific Languages](https://martinfowler.com/books/dsl.html)*, the code generation strategy includes code generation based on **transformer** and **template**. The **transformer-based** method means to use general programming languages ​​such as Go and Python for text processing, which is more flexible; the **template-based** method means generate code by writing a template DSL because the template has a structure similar to the target code, so it is more human-readable.
+According to Martin Fowler's definition in *[Domain-Specific Languages](https://martinfowler.com/books/dsl.html)*, the code generation strategy includes code generation based on **transformer** and **template**.
 
-In the practice of code generation, UCloud **supports two-generation strategies at the same time**. This method is used to construct the domain model of semantic. In other words, it is **model to model generation**. For example, the document center needs additional navigation information, and the converter obtains this information from an external system and performs the semantic model transformation. The template is used for **model to code generation**, such as the Markdown document in the document center. After the applicable scenarios are clarified, the responsibilities of the associated team can be made more explicit. The writing cost of the template is lower than the transformer so that non-R&D teams can also make the design and modification of the template, which greatly improves the engineering efficiency.
+- The **transformer-based** method means to use general programming languages ​​such as Go and Python for text processing, which is more flexible.
+- The **template-based** method means generate code by writing a template DSL because the template has a structure similar to the target code, so it is more human-readable.
+
+In the practice of code generation, UCloud **supports two-generation strategies at the same time**.
+
+- The transformer is used for **model to model generation**: such as construction of domain model of semantic. For example, the document center needs additional navigation information, and the converter obtains this information from an external system and performs the semantic model transformation.
+- The template is used for **model to code generation**, such as the Markdown document in the document center. After the applicable scenarios are clarified, the responsibilities of the associated team can be made more explicit. The writing cost of the template is lower than the transformer so that non-R&D teams can also make the design and modification of the template, which greatly improves the engineering efficiency.
 
 Below is a figure of the code generation pipeline.
 
