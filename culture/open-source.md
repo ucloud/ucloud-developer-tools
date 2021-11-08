@@ -13,4 +13,4 @@ Gift culture is a concept that comes from *The Cathedral and the Bazaar* by Eric
 
 In the roadmap of UCloud's developer tools, the open-source culture is very important. UCloud has continuation contributed to popular open-source developer tools, such as `Terraform`, `Packer`, `Pulumi`, etc. In this way, we can always work with the community, so that users can use the tools their favorite.
 
-At the same time, it can also use technical contributions to **feedback the development of the community**, accelerate the development of new technologies, and contribute to the basic software industry. Push us forward to success together.
+At the same time, it can also **contribute back to development of the community**, accelerate the development of new technologies, and contribute to the basic software industry. Push us forward to success together.
