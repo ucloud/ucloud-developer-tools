@@ -29,19 +29,19 @@ UCloud 已经开发和贡献了许多开源工具。
 
 | 分类 | 名称             | 持有者 | 架构风格       | 文档                                               | 仓库                                                   | 状态                                                     |
 | ---------- | ---------------- | --------- | ----------- | ------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- |
-| 页面    | 开发者中心 | Self      | 交互式 | ~                                                      | ~                                                            | [Prototyping](./culture/rtm-for-community.md#Prototyping) |
-| SaaS       | UAPI             | Self      | 交互式 | [Doc](https://docs.ucloud.cn/uapi/README)              | ~                                                            | [Active](./culture/rtm-for-community.md#Active)           |
-| SaaS       | CloudShell       | Self      | 交互式 | [Doc](https://docs.ucloud.cn/cloudshell/README)        | ~                                                            | [Refactoring](./culture/rtm-for-community.md#Refactoring) |
-| CDK        | CDKTF            | Community | 声明式 | ~                                                      | [Github](https://github.com/hashicorp/terraform-cdk)         | [Active](./culture/rtm-for-community.md#Active)           |
-| CDK        | Pulumi           | Community | 声明式 | ~                                                      | [Github](https://github.com/pulumi/pulumi-ucloud)            | [Prototyping](./culture/rtm-for-community.md#Prototyping) |
-| CLI        | CLI              | Self      | 多范式       | [Doc](https://docs.ucloud.cn/cli/README)               | [Github](https://github.com/ucloud/cli)                      | [Refactoring](./culture/rtm-for-community.md#Refactoring) |
-| CLI        | Terraform        | Community | 声明式 | [Doc](https://docs.ucloud.cn/terraform/README)         | [Github](https://github.com/ucloud/terraform-provider-ucloud) | [Active](./culture/rtm-for-community.md#Active)           |
-| CLI        | Packer           | Community | 声明式 | [Doc](https://docs.ucloud.cn/uhost/guide/image/packer) | [Github](https://github.com/hashicorp/packer/blob/master/website/content/docs/builders/ucloud-uhost.mdx) | [Active](./culture/rtm-for-community.md#Active)           |
-| SDK        | Go               | Self      | 交互式  | [Doc](https://docs.ucloud.cn/opensdk-go/)              | [Github](https://github.com/ucloud/ucloud-sdk-go)            | [Active](./culture/rtm-for-community.md#Active)           |
-| SDK        | Python           | Self      | 交互式  | [Doc](https://docs.ucloud.cn/opensdk-python/)          | [Github](https://github.com/ucloud/ucloud-sdk-python3)       | [Active](./culture/rtm-for-community.md#Active)           |
-| SDK        | Java             | Self      | 交互式  | [Doc](https://docs.ucloud.cn/opensdk-java/)            | [Github](https://github.com/ucloud/ucloud-sdk-java)          | [Refactoring](./culture/rtm-for-community.md#Refactoring)           |
-| SDK        | PHP              | Self      | 交互式  | [Doc](https://docs.ucloud.cn/opensdk-php/)             | [Github](https://github.com/ucloud/ucloud-sdk-php)           | [Active](./culture/rtm-for-community.md#Active)           |
-| SDK        | JS/TS            | Self      | 交互式  | [Doc](https://docs.ucloud.cn/opensdk-js/)              | [Github](https://github.com/ucloud/ucloud-sdk-js)            | [Active](./culture/rtm-for-community.md#Active)           |
+| 页面    | 开发者中心 | 自身      | 交互式 | ~                                                      | ~                                                            | [原型](./culture/rtm-for-community.md#Prototyping) |
+| SaaS       | UAPI             | 自身      | 交互式 | [Doc](https://docs.ucloud.cn/uapi/README)              | ~                                                            | [活跃](./culture/rtm-for-community.md#Active)           |
+| SaaS       | CloudShell       | 自身      | 交互式 | [Doc](https://docs.ucloud.cn/cloudshell/README)        | ~                                                            | [重构中](./culture/rtm-for-community.md#Refactoring) |
+| CDK        | CDKTF            | 社区 | 声明式 | ~                                                      | [Github](https://github.com/hashicorp/terraform-cdk)         | [活跃](./culture/rtm-for-community.md#Active)           |
+| CDK        | Pulumi           | 社区 | 声明式 | ~                                                      | [Github](https://github.com/pulumi/pulumi-ucloud)            | [原型](./culture/rtm-for-community.md#Prototyping) |
+| CLI        | CLI              | 自身      | 多范式       | [Doc](https://docs.ucloud.cn/cli/README)               | [Github](https://github.com/ucloud/cli)                      | [重构中](./culture/rtm-for-community.md#Refactoring) |
+| CLI        | Terraform        | 社区 | 声明式 | [Doc](https://docs.ucloud.cn/terraform/README)         | [Github](https://github.com/ucloud/terraform-provider-ucloud) | [活跃](./culture/rtm-for-community.md#Active)           |
+| CLI        | Packer           | 社区 | 声明式 | [Doc](https://docs.ucloud.cn/uhost/guide/image/packer) | [Github](https://github.com/hashicorp/packer/blob/master/website/content/docs/builders/ucloud-uhost.mdx) | [活跃](./culture/rtm-for-community.md#Active)           |
+| SDK        | Go               | 自身      | 交互式  | [Doc](https://docs.ucloud.cn/opensdk-go/)              | [Github](https://github.com/ucloud/ucloud-sdk-go)            | [活跃](./culture/rtm-for-community.md#Active)           |
+| SDK        | Python           | 自身      | 交互式  | [Doc](https://docs.ucloud.cn/opensdk-python/)          | [Github](https://github.com/ucloud/ucloud-sdk-python3)       | [活跃](./culture/rtm-for-community.md#Active)           |
+| SDK        | Java             | 自身      | 交互式  | [Doc](https://docs.ucloud.cn/opensdk-java/)            | [Github](https://github.com/ucloud/ucloud-sdk-java)          | [重构中](./culture/rtm-for-community.md#Refactoring)           |
+| SDK        | PHP              | 自身      | 交互式  | [Doc](https://docs.ucloud.cn/opensdk-php/)             | [Github](https://github.com/ucloud/ucloud-sdk-php)           | [活跃](./culture/rtm-for-community.md#Active)           |
+| SDK        | JS/TS            | 自身      | 交互式  | [Doc](https://docs.ucloud.cn/opensdk-js/)              | [Github](https://github.com/ucloud/ucloud-sdk-js)            | [活跃](./culture/rtm-for-community.md#Active)           |
 
 ## 贡献
 
