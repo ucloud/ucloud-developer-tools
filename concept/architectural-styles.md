@@ -1,5 +1,7 @@
 # Architectural Styles
 
+English | [简体中文](./architectural-styles_CN.md)
+
 Under normal circumstances, the services provided by cloud service providers to users often consist of these three types of user interfaces:
 
 1. **Imperative** (Imperative) APIs and tools **use verbs to describe how to operate a specific resource**, such as creating a virtual machine instance, turning it on, and shutting it down. Popular API architecture styles such as RESTFul and Action are instances of imperative APIs.

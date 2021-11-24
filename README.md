@@ -1,5 +1,7 @@
 # UCloud Developer Tools
 
+English | [简体中文](./README_CN.md)
+
 UCloud is a cloud vendor in China. We provide many developer tools to help users manage cloud resources.
 
 ## Table of Content
@@ -37,7 +39,7 @@ UCloud has developed and contributed to many open-source tools.
 | CLI        | Packer           | Community | Declarative | [Doc](https://docs.ucloud.cn/uhost/guide/image/packer) | [Github](https://github.com/hashicorp/packer/blob/master/website/content/docs/builders/ucloud-uhost.mdx) | [Active](./culture/rtm-for-community.md#Active)           |
 | SDK        | Go               | Self      | Imperative  | [Doc](https://docs.ucloud.cn/opensdk-go/)              | [Github](https://github.com/ucloud/ucloud-sdk-go)            | [Active](./culture/rtm-for-community.md#Active)           |
 | SDK        | Python           | Self      | Imperative  | [Doc](https://docs.ucloud.cn/opensdk-python/)          | [Github](https://github.com/ucloud/ucloud-sdk-python3)       | [Active](./culture/rtm-for-community.md#Active)           |
-| SDK        | Java             | Self      | Imperative  | [Doc](https://docs.ucloud.cn/opensdk-java/)            | [Github](https://github.com/ucloud/ucloud-sdk-java)          | [Active](./culture/rtm-for-community.md#Active)           |
+| SDK        | Java             | Self      | Imperative  | [Doc](https://docs.ucloud.cn/opensdk-java/)            | [Github](https://github.com/ucloud/ucloud-sdk-java)          | [Refactoring](./culture/rtm-for-community.md#Refactoring)           |
 | SDK        | PHP              | Self      | Imperative  | [Doc](https://docs.ucloud.cn/opensdk-php/)             | [Github](https://github.com/ucloud/ucloud-sdk-php)           | [Active](./culture/rtm-for-community.md#Active)           |
 | SDK        | JS/TS            | Self      | Imperative  | [Doc](https://docs.ucloud.cn/opensdk-js/)              | [Github](https://github.com/ucloud/ucloud-sdk-js)            | [Active](./culture/rtm-for-community.md#Active)           |
 

@@ -1,5 +1,7 @@
 # Response Time Maximum for Community
 
+English | [简体中文](./rtm-for-community_CN.md)
+
 The concept of RTM (Response Time Maximum) for community, is inspired by [Chef OSS Best Practice](https://github.com/chef/chef-oss-practices) of [repo states](https://github.com/chef/chef-oss-practices/blob/main/repo-management/repo-states.md).
 
 We extend it and define 5 states for our repository.

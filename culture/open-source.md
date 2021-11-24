@@ -1,5 +1,7 @@
 # Open Source and Gift Culture
 
+English | [简体中文](./open-source_CN.md)
+
 ## Why Open Source?
 
 Developer tools are all open source. There are two reasons:
